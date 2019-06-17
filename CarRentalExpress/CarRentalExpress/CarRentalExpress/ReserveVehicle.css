@@ -1,0 +1,61 @@
+﻿body
+{   background-color: #3d4852;
+    background-size: cover;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-variant: normal;
+    color: gold;
+}
+
+ .GridViewVehicles
+        {
+            background-color: #fff;
+            margin: 5px 0 10px 0;
+            border: solid 1px #525252;
+            border-collapse:collapse;
+        }
+        .header
+        {
+         padding: 4px 2px;
+        color: #fff;
+        background: #424242;
+        border-left: solid 1px #525252;
+        font-size: 0.9em;
+        }
+        .rows
+        {
+            background-color: #fff;
+            font-family: Arial;
+            font-size: 14px;
+            color: #000;
+            min-height: 25px;
+            text-align: left;
+            border: none 0px transparent;
+        }
+        .rows:hover
+        {
+            background-color: gold;
+            font-family: Arial;
+            color: #fff;
+            text-align: left;
+        }
+        .selectedrow
+        {
+            background-color: gold;
+            font-family: Arial;
+            color: #fff;
+            font-weight: bold;
+            text-align: left;
+        }
+        a:hover.mygrdContent
+        {
+            background-color: #000;
+            color: #fff;
+        }
+
+    a:hover.myLinkButton
+{
+                   background-color: #b200ff;
+                   color: #b200ff;
+}

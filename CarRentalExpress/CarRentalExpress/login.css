@@ -1,0 +1,31 @@
+﻿body
+{
+    background-image:url('/Images/rent-car.jpg');
+    background-size:     cover;                    
+    background-repeat:   no-repeat;
+    overflow: hidden;
+    width: 100%;
+    min-height: 100vh;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-variant: normal;
+    color: gold;
+}
+.container {
+    color: gold;
+  text-align: center;
+  position: absolute;
+  display: inline-block;
+  top: 5%;
+  left: 35%;
+  border: 3px solid gold;
+  padding: 5px;
+}
+h1 {
+    color: gold;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    position: relative;
+}
